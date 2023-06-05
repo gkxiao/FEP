@@ -1,4 +1,4 @@
-<h2>Some FEP relative binding free energy calculation software</h2>
+<h2>FEP relative binding free energy calculation softwares</h2>
 <ol>
    <li>FEP+/Schrodinger: https://www.schrodinger.com</li>
    <li>XFEP/Xtalpi: https://www.xtalpi.com</li>
