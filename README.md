@@ -14,3 +14,8 @@
    <li>QligFEP: https://github.com/qusers/qligfep</li>
    <li>NAMD-FEP: https://github.com/quantaosun/NAMD-FEP</li>
 </ol>
+
+<h2>Benchmark set for relative free energy calculations</h2>
+<ol>
+   <li>Merck group: https://github.com/MCompChem/fep-benchmark</li>
+<ol>
