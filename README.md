@@ -18,6 +18,7 @@
 <h2>Benchmark set for relative free energy calculations</h2>
 <ol>
    <li>Merck group: https://github.com/MCompChem/fep-benchmark</li>
+   <li>Wang, L.; Wu, Y.; Deng, Y.; Kim, B.; Pierce, L.; Krilov, G.; Lupyan, D.; Robinson, S.; Dahlgren, M. K.; Greenwood, J.; et al. Accurate and Reliable Prediction of Relative Ligand Binding Potency in Prospective Drug Discovery by Way of a Modern Free-Energy Calculation Protocol and Force Field. J. Am. Chem. Soc. 2015, 137 (7), 2695–2703. https://doi.org/10.1021/ja512751q.</li>
 </ol>
 
 <h2>Reference</h2>
