@@ -1,4 +1,4 @@
-<h2>FEP relative binding free energy calculation softwares/Protocols/Workflows</h2>
+<h2>Softwares/Workflows for FEP relative binding free energy calculation</h2>
 <ol>
    <li>Flare FEP/Flare: http://www.cresset-group.com</li>
    <li>FEP+/Schrodinger: https://www.schrodinger.com</li>
