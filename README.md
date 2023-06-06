@@ -1,4 +1,4 @@
-<h2>FEP relative binding free energy calculation softwares</h2>
+<h2>FEP relative binding free energy calculation softwares/Protocols/Workflows</h2>
 <ol>
    <li>Flare FEP/Flare: http://www.cresset-group.com</li>
    <li>FEP+/Schrodinger: https://www.schrodinger.com</li>
@@ -11,4 +11,6 @@
    <li>FEP/TandemAI: http://www.tandemai.com</li>
    <li>pyAutoFEP: http://github.com/luancarvalhomartins/PyAutoFEP</li>
    <li>FEP/Discovery Studio: https://www.3ds.com</li>
+   <li>QligFEP: https://github.com/qusers/qligfep</li>
+   <li>NAMD-FEP: https://github.com/quantaosun/NAMD-FEP</li>
 </ol>
