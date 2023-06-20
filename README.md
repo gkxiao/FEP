@@ -13,6 +13,7 @@
    <li>FEP/Discovery Studio: https://www.3ds.com</li>
    <li>QligFEP: https://github.com/qusers/qligfep</li>
    <li>NAMD-FEP: https://github.com/quantaosun/NAMD-FEP</li>
+   <li>ChemFlow: https://github.com/IFMlab/ChemFlow</li>
 </ol>
 
 <h2>Benchmark set for relative free energy calculations</h2>
