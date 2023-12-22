@@ -20,6 +20,7 @@
 <ol>
    <li>Merck group: https://github.com/MCompChem/fep-benchmark</li>
    <li>Wang, L.; Wu, Y.; Deng, Y.; Kim, B.; Pierce, L.; Krilov, G.; Lupyan, D.; Robinson, S.; Dahlgren, M. K.; Greenwood, J.; et al. Accurate and Reliable Prediction of Relative Ligand Binding Potency in Prospective Drug Discovery by Way of a Modern Free-Energy Calculation Protocol and Force Field. J. Am. Chem. Soc. 2015, 137 (7), 2695–2703. https://doi.org/10.1021/ja512751q.</li>
+   <li>Ross, G. A., Lu, C., Scarabelli, G., Albanese, S. K., Houang, E., Abel, R., Harder, E. D., & Wang, L. (2023). The maximal and current accuracy of rigorous protein-ligand binding free energy calculations. Communications Chemistry, 6(1), 222. https://doi.org/10.1038/s42004-023-01019-9</li>
 </ol>
 
 <h2>Reference</h2>
