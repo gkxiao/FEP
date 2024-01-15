@@ -15,7 +15,10 @@
    <li>NAMD-FEP: https://github.com/quantaosun/NAMD-FEP</li>
    <li>ChemFlow: https://github.com/IFMlab/ChemFlow</li>
 </ol>
-
+<h2>Case study</h2>
+<ol>
+    <li><a href="https://www.cresset-group.com/science/resources/free-energy-perturbations-fep-membrane-targets/">Free Energy Perturbations (FEP) on membrane targets: capturing lipid exposed binding in the P2Y1 GPCR complex.</a>. <a href="http://blog.molcalx.com.cn/2023/10/22/fep-membrane-targets.html">膜蛋白的自由能微扰计算——用Flare FEP精确地计算暴露于脂质与GPCR P2Y1界面上配体的结合亲合力</a></li>
+</ol>
 <h2>Benchmark set for relative free energy calculations</h2>
 <ol>
    <li>Merck group: https://github.com/MCompChem/fep-benchmark</li>
